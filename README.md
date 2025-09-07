@@ -10,7 +10,7 @@
 ```typescript
 const whoAmI = {
     name: "Enos Andrade",
-    birthDate: "1998-08-14 ",  // 25 years old
+    birthDate: "1998-08-14 ",  // 27 years old
     position: "fullstack",
     company: "WORKALOVE",
     formation: "Computer Science",
@@ -35,5 +35,6 @@ const whoAmI = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enosads&show_icons=true&theme=material-palenight&hide_border=true" alt="Enos's Github stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enosads&layout=compact&langs_count=10&theme=material-palenight&hide_border=true" alt="Enos's most used languages"/>
 </div>
+
 
 
