@@ -12,7 +12,7 @@ const whoAmI = {
     name: "Enos Andrade",
     birthDate: "1998-08-14 ",  // 27 years old
     position: "fullstack",
-    company: "WORKALOVE",
+    company: "PRAVALER",
     formation: "Computer Science",
     university: "UEPB",
     address: {
@@ -27,6 +27,7 @@ const whoAmI = {
     ],
 }
 ```
+
 
 
 
